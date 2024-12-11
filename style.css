@@ -1,0 +1,13 @@
+label {color: chartreuse;}
+        body {background-color: black;}
+        h1 {color: antiquewhite;}
+        .botão {color: violet; background-color: brown;}
+* {
+    color: aliceblue;
+}
+#olamundo {
+    color: aqua;
+}
+.suco {
+    color: blueviolet;
+}
